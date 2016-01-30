@@ -1,0 +1,23 @@
+{
+  "name": "purescript-language-purescript-parser-lexer",
+  "version": "0.0.1",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-language-purescript-base": "^0.0.2",
+    "purescript-prelude": "^0.1",
+    "purescript-parsing": "file:///home/illabout/git/purescript-parsing/.git#token",
+    "purescript-unicode": "file:///home/illabout/git/purescript-unicode/.git#unicode"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cdepillabout/purescript-language-purescript-parser-lexer.git"
+  }
+}
