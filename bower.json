@@ -11,10 +11,10 @@
     "output"
   ],
   "dependencies": {
-    "purescript-language-purescript-base": "^0.0.2",
+    "purescript-language-purescript-base": "^0.0.3",
     "purescript-prelude": "^0.1",
     "purescript-parsing": "file:///home/illabout/git/purescript-parsing/.git#token",
-    "purescript-unicode": "file:///home/illabout/git/purescript-unicode/.git#unicode"
+    "purescript-unicode": "^0.0.1"
   },
   "repository": {
     "type": "git",
